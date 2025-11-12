@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/matthew-jamison-65486bab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jamison.matthew@icloud.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-jamison.matthew@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email: jamison.matthew@icloud.com"/>
 </div>
 
 <div align="center">
