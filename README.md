@@ -66,7 +66,7 @@ I used to _only_ identify by what I could do...
 
 <br>
 
-drummer,
+percussionist,
 <br>
 bassist,
 <br>
