@@ -57,10 +57,15 @@
 **[🎶 Music Artist](https://matthewjjamison.bandcamp.com/)** --> 🧑🏿‍💻
 
 <br>
-"Learning is living, Love is Life"
+
+"Learning is living, Love is Life" - sometimes I say stuff I rarely remember 😅
+
 <br>
+
 I used to _only_ identify by what I could do...
+
 <br>
+
 drummer,
 <br>
 bassist,
