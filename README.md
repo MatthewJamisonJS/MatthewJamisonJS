@@ -82,7 +82,7 @@ rails-dev...😮‍💨
 
 ---
 *[Insert Neuro-Spicyness]*
-Protaganist I 💚
+Protaganist that I 💚 = 
 Gon Freecs (Hunter x Hunter)
 
 ---
