@@ -16,10 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=MatthewJamisonJS&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<div align="center">
-📧 jamison.matthew@icloud.com
-</div>
-
 <h1 align="center">
   <span aria-label="Live long and prosper">🖖🏿Live Long & Prosper</span>
 </h1>
