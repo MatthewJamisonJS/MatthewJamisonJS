@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">
-  <span aria-label="Live long and prosper">🖖🏿</span>
+  <span aria-label="Live long and prosper">🖖🏿Live Long & Prosper</span>
 </h1>
 
 <br>
@@ -51,56 +51,59 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+<br>
 
-**[Music producer](https://matthewjjamison.bandcamp.com/)** -> dev — 
+**[🎶 Music Artist](https://matthewjjamison.bandcamp.com/)** --> 🧑🏿‍💻
 
-I used to identify by what I could do...
+<br>
+"Learning is living, Love is Life"
+<br>
+I used to _only_ identify by what I could do...
+<br>
 drummer,
+<br>
 bassist,
+<br>
 music producer,
+<br>
 artist,
+<br>
 rails-dev...😮‍💨
+<br>
 
-Currently, I've been iterating on growth
-in all the ways 🙂
 
-🥖 & 🧈: **Ruby on Rails**, **Hotwire**, w/ **Phlex**. 
+[*Tech_Stack*🥖🧈] : **Ruby on Rails**, **Hotwire**, w/ **Phlex**. 
 
-I'm never the smartest in the room
-& power is best when it's shared
-
-What anime protaganist do I most align with? 
+---
+*[Insert Neuro-Spicyness]*
+Protaganist I 💚
 Gon Freecs (Hunter x Hunter)
+
 ---
 
 ## 🔧 What I've Been Up To
 
 ### **Concordia Publishing House**
 
-Contributing to Rails apps serving over **1m users**. 
-**77+ merged PRs** so far 😅 — bug fixes, new features, refactoring, learning codebases.
+- Contributing to Rails apps serving over **1m users**. 
 
-I'm still the new guy here 😄
+- **77+ merged PRs** so far 😅 — bug fixes, new features, refactoring, learning codebases.
+
+- I'm still the _new guy_ here 🤓
 
 <br>
 
-### **[matthewjamison.dev](https://matthewjamison.dev)**
+---
+"Stopped saying, next summer I'm finna..."
 
-Built my portfolio site.
-Placeholders in _demo_ section 👷🏿‍♂️🚧
+### **[Finally, a portfolio site that's half-finished](https://matthewjamison.dev)**
 
-working toward performance and accessibility 📈
 
-Current wins:
-- Fast page loads
-- Mobile-friendly and accessible
-- Multilingual support (Spanish, Japanese, French, German)
-- Clean, maintainable code
+Built a portfolio site 
+The _Demo_ section 👷🏿‍♂️🚧 is a placeholder 😅
 
-**Motto:** Learn how to choose the right tool for the job. Don't chase trends.
-
-**Stack:** Hugo for static generation, Tailwind for styling, deployed on Cloudflare Pages.
+increasing performance and accessibility 📈
 
 ---
 ## ⚡ Fun Fact
@@ -108,12 +111,19 @@ Current wins:
 "I don't care if you are famous, I'm married to my best friend" - Social Club Misfits
 
 My wife's name is Berneshia
+---
+DA_BABE
+
+<br>
 & she's a minister at our local church
+<br>
 
 🐸 *Frog & Toad* 🐸
 *11 Years & counting*
 
-Girl Dad🦸🏿‍♂️👧🏿👧🏽🦸🏿‍♀️
+<br>
+---
+100% Girl_Dad🦸🏿‍♂️👧🏿👧🏽🦸🏿‍♀️
 Family > 💰💼
 
 <br>
