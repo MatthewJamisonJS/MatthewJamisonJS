@@ -6,11 +6,11 @@
   <a href="https://matthewjamison.dev">
     <img src="https://img.shields.io/badge/Portfolio-matthewjamison.dev-blue?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-  <a href="https://linkedin.com/in/matthew-jamison-js">
+  <a href="https://www.linkedin.com/in/matthew-jamison-65486bab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:hello@matthewjamison.dev">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:jamison.matthew@icloud.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
@@ -48,9 +48,9 @@
 
 ## 🚀 About Me
 
-**Music producer** turned software developer — I spent years making beats, then discovered I could build products that solve actual problems for people.
+**[Music producer](https://matthewjjamison.bandcamp.com/)** turned software developer — I spent years making beats, then discovered I could build products that solve actual problems for people.
 
-I'm a Rails developer who loves building **performant, accessible applications** with **Ruby on Rails**, **Hotwire**, and **Phlex**. I believe in picking the right tool for the job instead of chasing trends, and I'm obsessed with 98+ Lighthouse scores and WCAG compliance.
+I'm a Rails developer who loves building clean, maintainable applications with **Ruby on Rails**, **Hotwire**, and **Phlex**. I believe in picking the right tool for the job instead of chasing trends, and I care about building things that actually work well for users.
 
 I'm hands-on first — build something, see if it works, trust my gut. Research when it makes sense to, but I'd rather experiment and learn by doing. Every challenge is just another adventure.
 
@@ -62,9 +62,9 @@ Kind of like Gon from Hunter x Hunter, honestly.
 
 ### **Concordia Publishing House**
 
-Contributing to a **Rails 8 monolith** that serves **500K users**. **77+ merged PRs** so far — performance optimization, new features, keeping the code clean.
+Contributing to Rails applications that serve **500K users**. **77+ merged PRs** so far — bug fixes, new features, refactoring, learning the codebase.
 
-Building features that balance user experience, technical excellence, and maintainability. Working with a team that ships code people actually use.
+I'm the newest dev on the team, and we're currently working on upgrading our apps to Rails 8. One down, more to go. Learning a lot about working with legacy code and shipping features that don't break things.
 
 <br>
 
@@ -72,17 +72,16 @@ Building features that balance user experience, technical excellence, and mainta
 
 Built my portfolio to showcase what I can do. **Seven demo templates** across different industries — agency, SaaS, e-commerce, blog, restaurant, and more.
 
-The whole thing is obsessed with performance and accessibility:
+Focused on performance and accessibility:
 
-- **98+ Lighthouse scores** across all pages
-- **79% faster load times** through optimization
-- **WCAG compliance** baked in from the start
-- **$6K in annual savings** with smart architecture choices
-- **Multilingual support** (Spanish, Japanese, French, German)
+- Fast page loads
+- Mobile-friendly and accessible
+- Multilingual support (Spanish, Japanese, French, German)
+- Clean, maintainable code
 
 **Philosophy:** Pick the right tool for the job. Don't chase trends.
 
-**The stack:** Hugo for blazing-fast static generation, Tailwind for styling, deployed on Cloudflare Pages.
+**The stack:** Hugo for static generation, Tailwind for styling, deployed on Cloudflare Pages.
 
 ---
 
@@ -96,7 +95,7 @@ The whole thing is obsessed with performance and accessibility:
 
 **Tools:** Git, jj, Docker, GitHub Actions
 
-**Focus:** Performance optimization, accessibility (WCAG), progressive enhancement
+**Focus:** Writing maintainable code, learning from the team, shipping features that work
 
 ---
 
