@@ -139,3 +139,4 @@ Oh, and I'm a polymath. Can't help it. Always learning something new.
 <div align="center">
   <img src="footer.svg" alt="Footer" width="100%">
 </div>
+
