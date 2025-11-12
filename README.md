@@ -9,11 +9,15 @@
   <a href="https://www.linkedin.com/in/matthew-jamison-65486bab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Email-jamison.matthew@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email: jamison.matthew@icloud.com"/>
+
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MatthewJamisonJS&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+<div align="center">
+📧 jamison.matthew@icloud.com
 </div>
 
 <h1 align="center">
