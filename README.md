@@ -53,93 +53,70 @@
 
 ## 🚀 About Me
 
-**[Music producer](https://matthewjjamison.bandcamp.com/)** turned software developer — I spent years making beats, then discovered I could build products that solve actual problems for people.
+**[Music producer](https://matthewjjamison.bandcamp.com/)** -> dev — 
 
-I'm a Rails developer who loves building clean, maintainable applications with **Ruby on Rails**, **Hotwire**, and **Phlex**. I believe in picking the right tool for the job instead of chasing trends, and I care about building things that actually work well for users.
+I used to identify by what I could do...
+drummer,
+bassist,
+music producer,
+artist,
+rails-dev...😮‍💨
 
-I'm hands-on first — build something, see if it works, trust my gut. Research when it makes sense to, but I'd rather experiment and learn by doing. Every challenge is just another adventure.
+Currently, I've been iterating on growth
+in all the ways 🙂
 
-Kind of like Gon from Hunter x Hunter, honestly.
+🥖 & 🧈: **Ruby on Rails**, **Hotwire**, w/ **Phlex**. 
 
+I'm never the smartest in the room
+& power is best when it's shared
+
+What anime protaganist do I most align with? 
+Gon Freecs (Hunter x Hunter)
 ---
 
 ## 🔧 What I've Been Up To
 
 ### **Concordia Publishing House**
 
-Contributing to Rails applications that serve **500K users**. **77+ merged PRs** so far — bug fixes, new features, refactoring, learning the codebase.
+Contributing to Rails apps serving over **1m users**. 
+**77+ merged PRs** so far 😅 — bug fixes, new features, refactoring, learning codebases.
 
-I'm the newest dev on the team, and we're currently working on upgrading our apps to Rails 8. One down, more to go. Learning a lot about working with legacy code and shipping features that don't break things.
+I'm still the new guy here 😄
 
 <br>
 
 ### **[matthewjamison.dev](https://matthewjamison.dev)**
 
-Built my portfolio to showcase what I can do. **Seven demo templates** across different industries — agency, SaaS, e-commerce, blog, restaurant, and more.
+Built my portfolio site.
+Placeholders in _demo_ section 👷🏿‍♂️🚧
 
-Focused on performance and accessibility:
+working toward performance and accessibility 📈
 
+Current wins:
 - Fast page loads
 - Mobile-friendly and accessible
 - Multilingual support (Spanish, Japanese, French, German)
 - Clean, maintainable code
 
-**Philosophy:** Pick the right tool for the job. Don't chase trends.
+**Motto:** Learn how to choose the right tool for the job. Don't chase trends.
 
-**The stack:** Hugo for static generation, Tailwind for styling, deployed on Cloudflare Pages.
-
----
-
-## 🛠️ My Current Toolbox
-
-**Backend:** Ruby, Rails 8, Hotwire (Turbo + Stimulus), Phlex
-
-**Frontend:** JavaScript, TailwindCSS, HTML/CSS
-
-**Database:** PostgreSQL
-
-**Tools:** Git, jj, Docker, GitHub Actions
-
-**Focus:** Writing maintainable code, learning from the team, shipping features that work
+**Stack:** Hugo for static generation, Tailwind for styling, deployed on Cloudflare Pages.
 
 ---
-
-## 🌟 Sometimes I Play With
-
-**Systems:** Rust when I need raw performance
-
-**Static Sites:** Hugo for blazing-fast content delivery
-
-**E-commerce:** Shopify integrations and custom themes
-
-**AI/ML:** Claude integration, building MCP servers, automation workflows
-
-**Cloud:** Cloudflare Pages, AWS basics
-
----
-
 ## ⚡ Fun Fact
 
-Music production taught me everything about composition and iteration. Those same principles apply to software architecture.
+"I don't care if you are famous, I'm married to my best friend" - Social Club Misfits
 
-Also, I do a lot of things:
+My wife's name is Berneshia
+& she's a minister at our local church
 
-- Still make beats occasionally 🎵
-- Watch anime (Hunter x Hunter, Attack on Titan, Demon Slayer)
-- Mentor at my local church (Follower of the Way)
-- Been married 11 years to my best friend
+🐸 *Frog & Toad* 🐸
+*11 Years & counting*
 
-  🐸 *Frog & Toad 4 Life* 🐸
-
-- Dad to two brilliant daughters (16 and 10)
+Girl Dad🦸🏿‍♂️👧🏿👧🏽🦸🏿‍♀️
+Family > 💰💼
 
 <br>
-
-I believe in building things that matter, helping people grow, and being present for what's actually important.
-
-Oh, and I'm a polymath. Can't help it. Always learning something new.
-
----
 
 <div align="center">
   <img src="footer.svg" alt="Decorative wave pattern footer" width="100%">
