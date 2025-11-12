@@ -112,9 +112,10 @@ increasing performance and accessibility 📈
 
 My wife's name is Berneshia
 ---
-DA_BABE
+<div align="center">
+  <img src="berneshia.jpeg" width="300" alt="Berneshia" />
+</div>
 
-<br>
 & she's a minister at our local church
 <br>
 
