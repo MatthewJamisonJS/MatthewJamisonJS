@@ -1,0 +1,8 @@
+# Setup instructions (local only)
+SETUP.md
+
+# Video files (keep optimized GIF only)
+*.mp4
+
+# macOS
+.DS_Store
