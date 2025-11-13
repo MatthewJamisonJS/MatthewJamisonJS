@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">
-  <span aria-label="Live long and prosper">🖖🏿Live Long & Prosper</span>
+  <span aria-label="Live long and prosper">🖖🏿 Live Long & Prosper</span>
 </h1>
 
 <br>
@@ -55,10 +55,6 @@
 <br>
 
 **[🎶 Music Artist](https://matthewjjamison.bandcamp.com/)** --> 🧑🏿‍💻
-
-<br>
-
-"Learning is living, Love is Life" - sometimes I say stuff I rarely remember 😅
 
 <br>
 
@@ -124,16 +120,31 @@ My wife's name is Berneshia
 </div>
 </details>
 
-& she's a minister at our local church
 <br>
-
 🐸 *Frog & Toad* 🐸
 *11 Years & counting*
+<br> 
+
+& 🤩 She's the most amazing woman ever created 😍
+<br>
+
+*Fun fact about Bernie:* She's a minister at our **[local church](https://www.refreshcommunity.church/)**
 
 <br>
+
+
+
+<br>
+
 ---
+
 100% Girl_Dad🦸🏿‍♂️👧🏿👧🏽🦸🏿‍♀️
 Family > 💰💼
+<br>
+
+"Learning is living, Love is Life" - some black dude 😅🤷🏿‍♂️
+
+
 
 <br>
 
