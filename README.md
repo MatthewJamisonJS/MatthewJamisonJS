@@ -59,7 +59,8 @@
 <br>
 
 I used to _only_ identify by what I could do...
-
+Now I'm reading & going on a journey of self-discovery 🙂
+[journey](https://open.substack.com/pub/matthewjamisonwwjd/p/why-am-i-even-writing?utm_campaign=post-expanded-share&utm_medium=web)
 <br>
 
 percussionist,
