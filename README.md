@@ -91,7 +91,7 @@ Gon Freecs (Hunter x Hunter)
 
 - Contributing to Rails apps serving over **1m users**. 
 
-- **77+ merged PRs** so far 😅 — bug fixes, new features, refactoring, learning codebases.
+- ![Merged PRs](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/MatthewJamisonJS/MatthewJamisonJS/main/pr-count.json&label=Merged%20PRs&query=$.count&color=blue&style=for-the-badge) — bug fixes, new features, refactoring, learning codebases.
 
 - I'm still the _new guy_ here 🤓
 
@@ -153,4 +153,3 @@ Family > 💰💼
 <div align="center">
   <img src="footer.svg" alt="Decorative wave pattern footer" width="100%">
 </div>
-
