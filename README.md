@@ -104,9 +104,12 @@ Gon Freecs (Hunter x Hunter)
 
 
 Built a portfolio site 
-The _Demo_ section 
+<br>
+The _Demo_ section
+<br>
 👷🏿‍♂️🚧 
 is a placeholder 😅
+<br>
 
 increasing performance and accessibility 📈
 
